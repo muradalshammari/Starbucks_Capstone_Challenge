@@ -3,7 +3,7 @@ This repository has all the code and report for my Udacity Data Scientist Nanode
 # Starbucks-Capstone-Challenge
 
 ## Blog post on Medium  
-https://medium.com/@reemalsaedi6/starbucks-capstone-challenge-b5a91fcc997d
+https://medium.com/@morad98/starbucks-capstone-challenge-f3e0f1f0c612
 
 ## Install
 This project requires Python 3.x and the following Python libraries installed:
